@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba N2
+inicio de prueba y error
